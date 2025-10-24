@@ -13,4 +13,4 @@ A Flask chatbot application that is powered by OpenAI's GPT-3.5 Turbo. It featur
 - Flask 2.0.1 and OpenAI Python SDK installed.
 - Set up your OpenAI API key.
 
-![Preview](./assets/screenshot-preview.png.png)
+![Preview](./assets/screenshot-preview.png)
